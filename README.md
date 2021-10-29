@@ -1,6 +1,10 @@
-# PIA-Cybersecurity
+# 🟣 PIA Cybersecurity 🟣
 
 Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
+
+### ⚠ WARNING ⚠
+
+**🕵 This repository was created for educational purposes and at no time is expected to be used for actions that may affect other third parties 🕵**
 
 ### Information about the authors
 
