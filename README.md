@@ -25,3 +25,5 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 - Check the installation of all modules ✅
 - Download all scripts and modules ⬇
 - Maintain the license in the project 📜
+
+### Repository installation
