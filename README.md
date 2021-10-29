@@ -17,6 +17,8 @@ Project created in Mexico 🤓
 Created by Universidad Autonoma de Nuevo Leon students 🏣  
 Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 
+!(https://www.uanl.mx/wp-content/uploads/2018/10/85-aniversario-uanl-torre-rectoria.jpg)
+
 ### Requirements
 
 - Have Python 3 installed 🖥
