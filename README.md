@@ -3,7 +3,7 @@
 Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 
 ### INDEX  
-- [WARNING](#⚠ WARNING ⚠).
+- [WARNING](#⚠-WARNING-⚠).
 
 ### ⚠ WARNING ⚠
 
