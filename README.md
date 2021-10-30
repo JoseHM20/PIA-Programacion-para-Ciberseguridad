@@ -9,15 +9,13 @@ Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 4. [Repository installation](#Repository-installation).
 5. [Project functionalities](#Project-functionalities).
 6. [Project tools](#Project-tools).
-7. [](#).
+7. [Modules used in the tool](#Modules-used-in-the-tool).
 8. [](#).
 
 ### ⚠ WARNING ⚠
-
 **🕵 This repository was created for educational purposes and at no time is expected to be used for actions that may affect other third parties 🕵**
 
 ### Information about the authors
-
 **Authors:**  
 🟡 [Jose Luis Hernandez Meza](https://github.com/JoseHM20)      
 🟡 [Gerardo Gamez Serna](https://github.com/Gerardo0202)  
@@ -30,7 +28,6 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 ![](https://www.uanl.mx/wp-content/uploads/2018/10/85-aniversario-uanl-torre-rectoria.jpg)
 
 ### Project functionalities  
-
 - Obtaining metadata from images coming directly from the camera.  
 - Encrypt, decrypt and crack messages with the help of the Caesar tool.  
 - Login to Google.  
@@ -41,14 +38,12 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 - Search public information of organizations  
 
 ### Requirements
-
 - Have Python 3 installed 🖥
 - Check the installation of all modules ✅
 - Download all scripts and modules ⬇
 - Maintain the license in the project 📜
 
 ### Repository installation
-
 **El repositorio lo puedes instalar desde tu linea de comandos usando el siguiente comando:**  
 `gh repo clone JoseHM20/PIA-Cybersecurity`
 
@@ -61,3 +56,18 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 🟦 Capture keystrokes using KeyLogger  
 
 ### Modules used in the tool
+🔴 Time  
+🔴 Argparse  
+🔴 Logging  
+🔴 OS  
+🔴 PyHunter  
+🔴 Subprocess  
+🔴 PIL  
+🔴 PIL.ExifTags  
+🔴 Twilio  
+🔴 Configparser  
+🔴 Smtplib  
+🔴 MIMEText  
+🔴 MIMEMultipart  
+🔴 MIMEBase  
+
