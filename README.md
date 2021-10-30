@@ -8,7 +8,9 @@ Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 3. [Requirements](#Requirements).
 4. [Repository installation](#Repository-installation).
 5. [Project functionalities](#Project-functionalities).
-6. [](#).
+6. [Project tools](#Project-tools).
+7. [](#).
+8. [](#).
 
 ### ⚠ WARNING ⚠
 
@@ -49,3 +51,11 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 
 **El repositorio lo puedes instalar desde tu linea de comandos usando el siguiente comando:**  
 `gh repo clone JoseHM20/PIA-Cybersecurity`
+
+### Project tools
+🟦 Sending e-mails and text messages
+🟦 Encryption, decryption and cracking of messages
+🟦 Image metadata acquisition
+🟦 System and network information
+🟦 Obtaining information from organizations
+🟦 Capture keystrokes using KeyLogger
