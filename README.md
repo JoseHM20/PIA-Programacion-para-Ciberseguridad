@@ -2,6 +2,8 @@
 
 Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 
+![](https://seguridadinredeshome.files.wordpress.com/2019/08/bigstock-press-enter-button-on-the-keyb-220634140-1.jpg?w=900)
+
 ### INDEX  
 1. [WARNING](#⚠-WARNING-⚠).
 2. [Information about the authors](#Information-about-the-authors).
