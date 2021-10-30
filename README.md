@@ -27,7 +27,16 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 
 ![](https://www.uanl.mx/wp-content/uploads/2018/10/85-aniversario-uanl-torre-rectoria.jpg)
 
-### Project functionalities
+### Project functionalities  
+
+- Obtaining metadata from images coming directly from the camera.  
+- Encrypt, decrypt and crack messages with the help of the Caesar tool.  
+- Login to Google.  
+- Sending mails with Google (without verification).  
+- Sending text messages  
+- View system information  
+- View geolocation and network information  
+- Search public information of organizations  
 
 ### Requirements
 
