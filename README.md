@@ -78,11 +78,11 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 ### How to use the tool
 
 ### Links for interested persons
-- [Python Installation](#https://www.python.org/)
-- [Create your company for automated messages and calls](#https://www.twilio.com/)
-- [Learn how to use Twilio](#https://www.twilio.com/blog/enviar-mensaje-whatsapp-30-segundos-con-python)
-- [Send emails with SMTP](#https://code.tutsplus.com/es/tutorials/sending-emails-in-python-with-smtp--cms-29975)
-- [Learn how to use Caesar in your messages](#https://www.instintoprogramador.com.mx/2020/11/cifrado-caesar-en-python-tutorial-de.html)
-- [Get the information from your photos](#https://es.acervolima.com/2021/02/09/como-extraer-metadatos-de-imagenes-en-python/)
-- [](#).
-- [](#).
+- [Python Installation](https://www.python.org/)
+- [Create your company for automated messages and calls](https://www.twilio.com/)
+- [Learn how to use Twilio](https://www.twilio.com/blog/enviar-mensaje-whatsapp-30-segundos-con-python)
+- [Send emails with SMTP](https://code.tutsplus.com/es/tutorials/sending-emails-in-python-with-smtp--cms-29975)
+- [Learn how to use Caesar in your messages](https://www.instintoprogramador.com.mx/2020/11/cifrado-caesar-en-python-tutorial-de.html)
+- [Get the information from your photos](https://es.acervolima.com/2021/02/09/como-extraer-metadatos-de-imagenes-en-python/)
+- []().
+- []().
