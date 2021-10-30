@@ -31,7 +31,7 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 **El repositorio lo puedes instalar desde tu linea de comandos usando el siguiente comando:**  
 `gh repo clone JoseHM20/PIA-Cybersecurity`
 
-Github profile of the contributors:
-JoseHM20: [](https://github.com/JoseHM20) 🧐  
-Francisco1002: [](https://github.com/Francisco1002) 🧐  
-Gerardo0202: [](https://github.com/Gerardo0202) 🧐  
+**Github profile of the contributors:**  
+[JoseHM20](https://github.com/JoseHM20) 🧐  
+[Francisco1002 ](https://github.com/Francisco1002) 🧐  
+[Gerardo0202](https://github.com/Gerardo0202) 🧐  
