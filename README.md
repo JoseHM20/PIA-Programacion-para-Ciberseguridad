@@ -32,6 +32,6 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 `gh repo clone JoseHM20/PIA-Cybersecurity`
 
 Github profile of the contributors:
-JoseHM20: [GitHub Pages](https://github.com/JoseHM20) 🧐
-Francisco1002: [GitHub Pages](https://github.com/Francisco1002) 🧐
-Gerardo0202: [GitHub Pages](https://github.com/Gerardo0202) 🧐
+JoseHM20: [](https://github.com/JoseHM20) 🧐  
+Francisco1002: [](https://github.com/Francisco1002) 🧐  
+Gerardo0202: [](https://github.com/Gerardo0202) 🧐  
