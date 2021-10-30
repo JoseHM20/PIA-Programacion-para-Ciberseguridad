@@ -29,4 +29,4 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 ### Repository installation
 
 **El repositorio lo puedes instalar desde tu linea de comandos usando el siguiente comando:**  
-'gh repo clone JoseHM20/PIA-Cybersecurity' 😲
+`gh repo clone JoseHM20/PIA-Cybersecurity`
