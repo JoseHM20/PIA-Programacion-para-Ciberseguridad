@@ -12,7 +12,9 @@ Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 5. [Project functionalities](#Project-functionalities).
 6. [Project tools](#Project-tools).
 7. [Modules used in the tool](#Modules-used-in-the-tool).
-8. [](#).
+8. [Links for interested persons](#Links-for-interested-persons).
+9. [](#).
+10. [](#).
 
 ### ⚠ WARNING ⚠
 **🕵 This repository was created for educational purposes and at no time is expected to be used for actions that may affect other third parties 🕵**
@@ -73,3 +75,14 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 🔴 MIMEMultipart  
 🔴 MIMEBase  
 
+### How to use the tool
+
+### Links for interested persons
+- [Python Installation](#https://www.python.org/).
+- [Create your company for automated messages and calls](#https://www.twilio.com/).
+- [Learn how to use Twilio](#https://www.twilio.com/blog/enviar-mensaje-whatsapp-30-segundos-con-python).
+- [Send emails with SMTP](#https://code.tutsplus.com/es/tutorials/sending-emails-in-python-with-smtp--cms-29975).
+- [Learn how to use Caesar in your messages](#https://www.instintoprogramador.com.mx/2020/11/cifrado-caesar-en-python-tutorial-de.html).
+- [Get the information from your photos](#https://es.acervolima.com/2021/02/09/como-extraer-metadatos-de-imagenes-en-python/).
+- [](#).
+- [](#).
