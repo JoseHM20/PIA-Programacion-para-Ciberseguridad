@@ -53,9 +53,11 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 `gh repo clone JoseHM20/PIA-Cybersecurity`
 
 ### Project tools
-🟦 Sending e-mails and text messages
-🟦 Encryption, decryption and cracking of messages
-🟦 Image metadata acquisition
-🟦 System and network information
-🟦 Obtaining information from organizations
-🟦 Capture keystrokes using KeyLogger
+🟦 Sending e-mails and text messages  
+🟦 Encryption, decryption and cracking of messages  
+🟦 Image metadata acquisition  
+🟦 System and network information  
+🟦 Obtaining information from organizations  
+🟦 Capture keystrokes using KeyLogger  
+
+### Modules used in the tool
