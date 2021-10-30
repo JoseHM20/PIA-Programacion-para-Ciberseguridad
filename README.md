@@ -2,14 +2,14 @@
 
 Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 
-### INDEX
-1. [WARNING](# WARNING)
-2. [Information about the authors](### Information about the authors)
-3. [Requirements](### Requirements)
-4. [Repository installation](### Repository installation)
-5. [Contributors](### Github profile of the contributors)
+### INDEX  
+- [WARNING](### WARNING).  
+- [Information about the authors](### Information about the authors).  
+- [Requirements](### Requirements).  
+- [Repository installation](### Repository installation).  
+- [Contributors](### Github profile of the contributors).  
 
-# ⚠ WARNING ⚠
+### ⚠ WARNING ⚠
 
 **🕵 This repository was created for educational purposes and at no time is expected to be used for actions that may affect other third parties 🕵**
 
