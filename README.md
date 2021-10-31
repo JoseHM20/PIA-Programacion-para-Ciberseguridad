@@ -15,23 +15,23 @@ Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 8. [How to use the tool](#How-to-use-the-tool).
 9. [](#).
 10. [](#).
-11. [Links for interested persons](#Links-for-interested-persons).
-
+11. [Links for interested persons](#Links-for-interested-persons).  
+  
 ### ⚠ WARNING ⚠
-**🕵 This repository was created for educational purposes and at no time is expected to be used for actions that may affect other third parties 🕵**
-
+**🕵 This repository was created for educational purposes and at no time is expected to be used for actions that may affect other third parties 🕵**  
+  
 ### Information about the authors
 **Authors:**  
 🟡 [Jose Luis Hernandez Meza](https://github.com/JoseHM20)      
 🟡 [Gerardo Gamez Serna](https://github.com/Gerardo0202)  
-🟡 [Francisco Javier Valerio Lara](https://github.com/Francisco1002)     
-
+🟡 [Francisco Javier Valerio Lara](https://github.com/Francisco1002)  
+  
 Project created in Mexico 🤓  
 Created by Universidad Autonoma de Nuevo Leon students 🏣  
-Students from the School of Ciencias Fisico Matematicas 👨‍🏫
-
-![](https://www.uanl.mx/wp-content/uploads/2018/10/85-aniversario-uanl-torre-rectoria.jpg)
-
+Students from the School of Ciencias Fisico Matematicas 👨‍🏫  
+  
+![](https://www.uanl.mx/wp-content/uploads/2018/10/85-aniversario-uanl-torre-rectoria.jpg)  
+  
 ### Project functionalities  
 - Obtaining metadata from images coming directly from the camera.  
 - Encrypt, decrypt and crack messages with the help of the Caesar tool.  
@@ -41,17 +41,17 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 - View system information  
 - View geolocation and network information  
 - Search public information of organizations  
-
+  
 ### Requirements
 - Have Python 3 installed 🖥
 - Check the installation of all modules ✅
 - Download all scripts and modules ⬇
-- Maintain the license in the project 📜
-
+- Maintain the license in the project 📜  
+  
 ### Repository installation
 **El repositorio lo puedes instalar desde tu linea de comandos usando el siguiente comando:**  
 `gh repo clone JoseHM20/PIA-Cybersecurity`
-
+  
 ### Project tools
 🟦 Sending e-mails and text messages  
 🟦 Encryption, decryption and cracking of messages  
@@ -59,7 +59,7 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 🟦 System and network information  
 🟦 Obtaining information from organizations  
 🟦 Capture keystrokes using KeyLogger  
-
+  
 ### Modules used in the tool
 🔴 Time  
 🔴 Argparse  
@@ -75,7 +75,7 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 🔴 MIMEText  
 🔴 MIMEMultipart  
 🔴 MIMEBase  
-
+  
 ### Steps for execution
 1. Start the command prompt  
 2. We go to the folder in which we saved the project  
@@ -84,54 +84,52 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 5. You must make use of the main file, which will give the proper functioning of the tool  
 ![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/f56e145e04df063840e83a053693f7b90aa7fa36/images/main.jpg)   
 4. Execute the script with the "-h" to see the arguments
-![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/argumentos%20CMD.jpg)   
-
-
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/argumentos%20CMD.jpg) 
+  
 ### How to use the tool
-
 **☑ Sending e-mails and text messages**  
-Arguments to use in this tool
+Arguments to use in this tool  
 SMS 📱
 - "-org"
 - "-dest"
-- ".sms"    
-
+- ".sms"  
+  
 E-mail ✉
 - "-sendM"
 - "-recivM"
 - "-passw"
 - "-sub"
 - "-file"
-- "-body"    
-
+- "-body"  
+  
 **☑ Encryption, decryption and cracking of messages**  
 Arguments to use in this tool  
 - "-mode"
 - "-message"
-- "-key"    
-
+- "-key"  
+  
 **☑ Sending e-mails and text messages**  
 Arguments to use in this tool  
-- "-ruta"    
-
+- "-ruta"  
+  
 **☑ System and network information**  
-Arguments to use in this tool 
+Arguments to use in this tool  
 Bash 🐧  
 🟢 This tool should preferably be used in a Linux environment 🟢  
-The tool is automated 🤖    
-
+The tool is automated 🤖  
+  
 PowerShell ⌨  
-🟢 This tool will only ask for the name of a service and the action you want to do with it 🟢    
-
+🟢 This tool will only ask for the name of a service and the action you want to do with it 🟢  
+  
 **☑ Obtaining information from organizations**  
-🟢 This tool will only ask for the domain of the organization to be investigated 🟢    
-
-**❗ IMPORTANT NOTES ❗**    
-
+🟢 This tool will only ask for the domain of the organization to be investigated 🟢  
+  
+**❗ IMPORTANT NOTES ❗**  
+  
 🟡 It is essential to use "-tool" to specify with a number from 1 to 4 the tool to use.  
 🟡 The tool for obtaining information from organizations is independent from the main file, so you must run it separately.  
 🟡 The Keylogger application is a basic example and is also independent of the main file.  
-
+  
 ### Links for interested persons
 - [Python Installation](https://www.python.org/)
 - [Create your company for automated messages and calls](https://www.twilio.com/)
