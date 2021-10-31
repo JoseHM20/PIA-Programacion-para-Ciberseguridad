@@ -35,7 +35,7 @@ def Encrypt(message, key):
           try:
              symbolIndex = dict.find(symbol)
           except TypeError:
-              print ("Ha introducido un simbolo no valido")
+              print ("You have entered an invalid symbol")
           else:
             translatedIndex = symbolIndex + key
             if translatedIndex >= len(dict):
@@ -56,7 +56,7 @@ def Decrypt(message, key):
             try:
                 symbolIndex = dict.find(symbol)
             except TypeError:
-                print ("Has introducido un simbolo no valido")
+                print ("You have entered an invalid symbol")
             else:
                translatedIndex = symbolIndex - key
             if translatedIndex >= len(dict):
@@ -77,7 +77,7 @@ def Crack(message, key):
                 try:
                     symbolIndex = dict.find(symbol)
                 except TypeError:
-                    print ("Has introducido un simbolo no valido")
+                    print ("You have entered an invalid symbol")
                 else:
                     translatedIndex = symbolIndex - key
                 if translatedIndex < 0: #try:
