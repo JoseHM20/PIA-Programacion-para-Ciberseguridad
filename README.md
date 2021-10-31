@@ -77,7 +77,8 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 🔴 MIMEBase  
 
 ### How to use the tool
-💎 You must make use of the main file, which will give the proper functioning of the tool 💎
+💎 You must make use of the main file, which will give the proper functioning of the tool 💎  
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/f56e145e04df063840e83a053693f7b90aa7fa36/images/main.jpg)    
 
 ☑ Sending e-mails and text messages  
 
