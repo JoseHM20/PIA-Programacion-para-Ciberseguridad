@@ -10,7 +10,6 @@
 # Import of modules
 import time
 import argparse
-import logging
 import SendSE
 import CIFCesar
 import MetaIMG
@@ -24,28 +23,24 @@ def main():
         print("\nYou have selected option 1")
         print("Starting tool...\n")
         time.sleep(2)
-        logging.info('Se ha iniciado la herramienta No.1')
         SendSE.Contact(DESTINATION, ORIGIN, SMS, sendMail, reciveMail, password, subject, text, filename)
     elif work == "2":
         # Tool for encrypting, decrypting and cracking messages
         print("\nYou have selected option 2")
         print("Starting tool...\n")
         time.sleep(2)
-        logging.info('Se ha iniciado la herramienta No.2')
         CIFCesar.Cesar(mod, message, key)
     elif work == "3":
         # Tool to analyze image information
         print("\nYou have selected option 3")
         print("Starting tool...\n")
         time.sleep(2)
-        logging.info('Se ha iniciado la herramienta No.3')
         MetaIMG.printMeta(ruta)
     elif work == "4":
         # Use of tools in other programming languages
         print("\nYou have selected option 4")
         print("Starting tool...\n")
         time.sleep(2)
-        logging.info('Se ha iniciado la herramienta No.4')
         Internal.ScriptPB()
     else:
         print("\nYou did not select any option")
