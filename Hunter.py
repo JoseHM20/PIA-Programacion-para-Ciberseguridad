@@ -39,5 +39,6 @@ def HUNTER():
             SaveInfo(dataFound, orga)
     except KeyboardInterrupt:
         print("The script has been interrupted")
-
-HUNTER()
+        
+if __name__ == "__main__":
+    HUNTER()
