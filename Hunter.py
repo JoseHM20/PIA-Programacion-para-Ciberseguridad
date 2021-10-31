@@ -2,7 +2,7 @@ from pyhunter import PyHunter
 from openpyxl import Workbook
 import time
 
-h = PyHunter('2c8c60c4db5b0e007336108085725c73aa44ec35')
+h = PyHunter("")
 
 def busqueda(organi):
     # Information search function
