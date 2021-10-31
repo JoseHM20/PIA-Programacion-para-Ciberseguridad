@@ -88,10 +88,49 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 
 
 ### How to use the tool
- 
 
-☑ Sending e-mails and text messages  
+**☑ Sending e-mails and text messages**  
+Arguments to use in this tool
+SMS 📱
+- "-org"
+- "-dest"
+- ".sms"    
 
+E-mail ✉
+- "-sendM"
+- "-recivM"
+- "-passw"
+- "-sub"
+- "-file"
+- "-body"    
+
+**☑ Encryption, decryption and cracking of messages**  
+Arguments to use in this tool  
+- "-mode"
+- "-message"
+- "-key"    
+
+**☑ Sending e-mails and text messages**  
+Arguments to use in this tool  
+- "-ruta"    
+
+**☑ System and network information**  
+Arguments to use in this tool 
+Bash 🐧  
+🟢 This tool should preferably be used in a Linux environment 🟢  
+The tool is automated 🤖    
+
+PowerShell ⌨  
+🟢 This tool will only ask for the name of a service and the action you want to do with it 🟢    
+
+**☑ Obtaining information from organizations**  
+🟢 This tool will only ask for the domain of the organization to be investigated 🟢    
+
+**❗ IMPORTANT NOTES ❗**    
+
+🟡 It is essential to use "-tool" to specify with a number from 1 to 4 the tool to use.  
+🟡 The tool for obtaining information from organizations is independent from the main file, so you must run it separately.  
+🟡 The Keylogger application is a basic example and is also independent of the main file.  
 
 ### Links for interested persons
 - [Python Installation](https://www.python.org/)
@@ -100,5 +139,3 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 - [Send emails with SMTP](https://code.tutsplus.com/es/tutorials/sending-emails-in-python-with-smtp--cms-29975)
 - [Learn how to use Caesar in your messages](https://www.instintoprogramador.com.mx/2020/11/cifrado-caesar-en-python-tutorial-de.html)
 - [Get the information from your photos](https://es.acervolima.com/2021/02/09/como-extraer-metadatos-de-imagenes-en-python/)
-- []().
-- []().
