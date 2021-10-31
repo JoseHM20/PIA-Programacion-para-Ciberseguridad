@@ -12,9 +12,10 @@ Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 5. [Project functionalities](#Project-functionalities).
 6. [Project tools](#Project-tools).
 7. [Modules used in the tool](#Modules-used-in-the-tool).
-8. [Links for interested persons](#Links-for-interested-persons).
+8. [How to use the tool](#How-to-use-the-tool).
 9. [](#).
 10. [](#).
+11. [Links for interested persons](#Links-for-interested-persons).
 
 ### ⚠ WARNING ⚠
 **🕵 This repository was created for educational purposes and at no time is expected to be used for actions that may affect other third parties 🕵**
@@ -76,6 +77,10 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 🔴 MIMEBase  
 
 ### How to use the tool
+💎 You must make use of the main file, which will give the proper functioning of the tool 💎
+
+☑ Sending e-mails and text messages  
+
 
 ### Links for interested persons
 - [Python Installation](https://www.python.org/)
