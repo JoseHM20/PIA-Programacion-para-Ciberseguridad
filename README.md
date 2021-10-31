@@ -76,9 +76,19 @@ Students from the School of Ciencias Fisico Matematicas 👨‍🏫
 🔴 MIMEMultipart  
 🔴 MIMEBase  
 
+### Steps for execution
+1. Start the command prompt  
+2. We go to the folder in which we saved the project  
+3. Install the necessary modules using the file "requirements.txt"  
+`pip install -r requirements.txt`  
+5. You must make use of the main file, which will give the proper functioning of the tool  
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/f56e145e04df063840e83a053693f7b90aa7fa36/images/main.jpg)   
+4. Execute the script with the "-h" to see the arguments
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/argumentos%20CMD.jpg)   
+
+
 ### How to use the tool
-💎 You must make use of the main file, which will give the proper functioning of the tool 💎  
-![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/f56e145e04df063840e83a053693f7b90aa7fa36/images/main.jpg)    
+ 
 
 ☑ Sending e-mails and text messages  
 
