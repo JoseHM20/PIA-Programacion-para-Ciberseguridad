@@ -12,9 +12,8 @@ Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 5. [Project functionalities](#Project-functionalities).
 6. [Project tools](#Project-tools).
 7. [Modules used in the tool](#Modules-used-in-the-tool).
-8. [How to use the tool](#How-to-use-the-tool).
-9. [](#).
-10. [](#).
+8. [Steps for execution](#Steps-for-execution).
+9. [How to use the tool](#How-to-use-the-tool).
 11. [Links for interested persons](#Links-for-interested-persons).  
   
 ### ⚠ WARNING ⚠
