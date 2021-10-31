@@ -125,6 +125,7 @@ PowerShell ⌨
   
 **❗ IMPORTANT NOTES ❗**  
   
+🟡 In the SMS sending tool you will have to modify the configuration file with the values given by the Twilio platform.  
 🟡 It is essential to use "-tool" to specify with a number from 1 to 4 the tool to use.  
 🟡 The tool for obtaining information from organizations is independent from the main file, so you must run it separately.  
 🟡 The Keylogger application is a basic example and is also independent of the main file.  
