@@ -92,6 +92,7 @@ SMS 📱
 - "-dest"
 - ".sms"  
 ![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/main/images/msm.png)
+
 E-mail ✉
 - "-sendM"
 - "-recivM"
@@ -100,12 +101,14 @@ E-mail ✉
 - "-file"
 - "-body"  
 ![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/main/images/smail.png)
+
 **☑ Encryption, decryption and cracking of messages**  
 Arguments to use in this tool  
 - "-mode"
 - "-message"
 - "-key"  
 ![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/main/images/ccesar.png)
+
 **☑ Metadata of Img to analyze**  
 Arguments to use in this tool  
 - "-ruta"  
