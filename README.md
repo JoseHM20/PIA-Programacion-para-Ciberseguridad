@@ -92,7 +92,7 @@ SMS 📱
 - "-org"
 - "-dest"
 - ".sms"  
-  
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/sms.png)
 E-mail ✉
 - "-sendM"
 - "-recivM"
@@ -100,14 +100,14 @@ E-mail ✉
 - "-sub"
 - "-file"
 - "-body"  
-  
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/smail.png)
 **☑ Encryption, decryption and cracking of messages**  
 Arguments to use in this tool  
 - "-mode"
 - "-message"
 - "-key"  
-  
-**☑ Sending e-mails and text messages**  
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/ccesar.png)
+**☑ Metadata of Img to analyze**  
 Arguments to use in this tool  
 - "-ruta"  
   
