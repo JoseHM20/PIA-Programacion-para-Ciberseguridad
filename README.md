@@ -23,7 +23,6 @@ Cybersecurity tool 👮. Semester August-December 2021 👨‍🎓
 **Authors:**  
 🟡 [Jose Luis Hernandez Meza](https://github.com/JoseHM20)      
 🟡 [Gerardo Gamez Serna](https://github.com/Gerardo0202)  
-🟡 [Francisco Javier Valerio Lara](https://github.com/Francisco1002)  
   
 Project created in Mexico 🤓  
 Created by Universidad Autonoma de Nuevo Leon students 🏣  
