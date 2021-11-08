@@ -92,7 +92,7 @@ SMS 📱
 - "-org"
 - "-dest"
 - ".sms"  
-![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/sms.png)
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/main/images/msm.png)
 E-mail ✉
 - "-sendM"
 - "-recivM"
@@ -106,7 +106,7 @@ Arguments to use in this tool
 - "-mode"
 - "-message"
 - "-key"  
-![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/ccesar.png)
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/main/images/ccesar.png)
 **☑ Metadata of Img to analyze**  
 Arguments to use in this tool  
 - "-ruta"  
