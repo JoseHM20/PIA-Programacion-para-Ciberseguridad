@@ -100,7 +100,7 @@ E-mail ✉
 - "-sub"
 - "-file"
 - "-body"  
-![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/91c07773aac6f987bdd62f829c91cc90a49a4e32/images/smail.png)
+![](https://github.com/JoseHM20/PIA-Cybersecurity/blob/main/images/smail.png)
 **☑ Encryption, decryption and cracking of messages**  
 Arguments to use in this tool  
 - "-mode"
